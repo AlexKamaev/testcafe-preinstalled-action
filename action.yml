@@ -1,0 +1,9 @@
+name: 'TestCafe'
+description: 'TestCafe Action for GitHub Actions'
+inputs:
+  testCafeArguments:
+    description: 'Test Cafe arguments'
+    required: true
+runs:
+  using: 'node12'
+  main: 'index.js'
