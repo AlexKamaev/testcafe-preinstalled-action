@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/AlexKamaev/testcafe-action#readme",
   "dependencies": {
-    "testcafe": "^1.6.0",
+    "testcafe": "^1.20.1",
     "@actions/core": "^1.2.0"
   }
 }
